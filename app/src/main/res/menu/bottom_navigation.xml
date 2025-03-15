@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeIc"
+        android:title="Home"
+        android:icon="@drawable/home_icon"/>
+
+    <item
+        android:id="@+id/tolateIc"
+        android:title="To Late"
+        android:icon="@drawable/tolate_icon"/>
+
+    <item
+        android:id="@+id/addIc"
+        android:title="ADD"
+        android:icon="@drawable/add_icon"/>
+
+    <item
+        android:id="@+id/profileIc"
+        android:title="Profile"
+        android:icon="@drawable/profile_icon"/>
+
+</menu>

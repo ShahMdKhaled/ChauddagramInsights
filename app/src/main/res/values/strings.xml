@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chauddagram Insights</string>
+    <string name="Drawer_open">Drawer open</string>
+    <string name="Drawer_close">Drawer close</string>
+    <string name="app_slogan">সকল সেবা একই সাথে</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
